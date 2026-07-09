@@ -1,10 +1,3 @@
-"""
-Phase 1 — Plain Python PDF-to-Markdown pipeline.
-
-Usage:
-    $ python process_pdf.py s3://temporal-dev/files/cisco-88xx-user-guide.pdf
-"""
-
 import os
 import sys
 import logging
